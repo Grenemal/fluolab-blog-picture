@@ -1,0 +1,21 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "github": {
+      "repo": "Grenemal/picture_tencent", // 仓库名，格式是 username/reponame
+      "token": "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", // github token
+      "path": "img/", // 自定义存储路径，比如 img/
+      "customUrl": "https://cdn.jsdelivr.net/gh/Grenemal/picture_tencent", // 自定义域名，加上CDN方便国内加载
+      "branch": "master", // 分支名，默认是 master
+      "proxy": "127.0.0.1:32323" //设置代理服务器，port改成你自己代理工具的http端口
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-github-plus": true,
+    "picgo-plugin-rename-file": true
+  },
+  "picgo-plugin-rename-file": {
+    "format": "{y}/{m}/{d}/{origin}_{h}-{i}-{s}" // rename格式，具体配置说明前往 https://github.com/liuwave/picgo-plugin-rename-file 查看
+  }
+}
