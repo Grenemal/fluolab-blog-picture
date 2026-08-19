@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 500 500"
+   width="100%"
+   height="100%"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="DNA示意图.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview53"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.834"
+     inkscape:cx="251.94072"
+     inkscape:cy="253.17572"
+     inkscape:window-width="2880"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="structural-guides" />
+  <defs
+     id="defs53">
+    <rect
+       x="175.01764"
+       y="452.36415"
+       width="183.13338"
+       height="33.168666"
+       id="rect2" />
+    <rect
+       x="229.71066"
+       y="57.16302"
+       width="17.995766"
+       height="13.40861"
+       id="rect60" />
+  </defs>
+  <style
+     id="style1">
+        .title { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #2C3E50; letter-spacing: 0.5px; }
+        .label-main { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: bold; }
+        .label-sub { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; fill: #7F8C8D; }
+        .dim-text { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; fill: #2980B9; }
+        .axis-text { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; fill: #95A5A6; }
+        
+        .major-color { fill: #E74C3C; }
+        .minor-color { fill: #E67E22; }
+        
+        .back-strand { stroke: #BDC3C7; stroke-width: 6; fill: none; stroke-linecap: round; }
+        .front-strand-1 { stroke: #3498DB; stroke-width: 8; fill: none; stroke-linecap: round; }
+        .front-strand-2 { stroke: #2ECC71; stroke-width: 8; fill: none; stroke-linecap: round; }
+        
+        .base-a { stroke: #34495E; stroke-width: 4; stroke-linecap: round; }
+        .base-t { stroke: #9B59B6; stroke-width: 4; stroke-linecap: round; }
+        .base-c { stroke: #F1C40F; stroke-width: 4; stroke-linecap: round; }
+        .base-g { stroke: #E74C3C; stroke-width: 4; stroke-linecap: round; }
+        
+        .dim-line { stroke: #2980B9; stroke-width: 1.5; stroke-dasharray: 4,4; }
+        .dim-arrow { stroke: #2980B9; stroke-width: 1.5; fill: none; }
+        .guide-line { stroke: #BDC3C7; stroke-width: 1; stroke-dasharray: 2,2; }
+    </style>
+  <g
+     id="header"
+     transform="translate(250, 35)"
+     text-anchor="middle">
+    <text
+       class="title"
+       id="text1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Microsoft YaHei UI;-inkscape-font-specification:Microsoft YaHei UI"
+         id="tspan53">DNA 双螺旋结构大沟与小沟尺寸示意图</tspan></text>
+  </g>
+  <g
+     id="dna-structure"
+     transform="translate(140, 0)">
+    <g
+       id="structural-guides">
+      <line
+         x1="60"
+         y1="60"
+         x2="60"
+         y2="460"
+         stroke="#E0E0E0"
+         stroke-width="1"
+         id="line1" />
+      <line
+         x1="0"
+         y1="60"
+         x2="0"
+         y2="460"
+         class="guide-line"
+         id="line2" />
+      <line
+         x1="120"
+         y1="60"
+         x2="120"
+         y2="460"
+         class="guide-line"
+         id="line3" />
+      <line
+         x1="0"
+         y1="450"
+         x2="120"
+         y2="450"
+         stroke="#95A5A6"
+         stroke-width="1"
+         id="line4" />
+      <path
+         d="M 0 447 L 0 453 M 120 447 L 120 453"
+         stroke="#95A5A6"
+         stroke-width="1"
+         id="path4" />
+      <text
+         xml:space="preserve"
+         transform="translate(-140)"
+         id="text60"
+         style="fill:#000000;writing-mode:lr-tb;text-orientation:auto;direction:ltr;-inkscape-font-specification:'Microsoft YaHei UI';font-family:'Microsoft YaHei UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect60)" />
+      <text
+         x="150.68456"
+         y="475.52151"
+         class="axis-text"
+         text-anchor="middle"
+         id="text4"
+         style="font-size:16px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI'"
+           id="tspan60">直径 约 20 Å (2.0 nm)</tspan></text>
+    </g>
+    <g
+       id="base-pairs">
+      <line
+         x1="10"
+         y1="90"
+         x2="60"
+         y2="90"
+         class="base-a"
+         id="line5" />
+      <line
+         x1="60"
+         y1="90"
+         x2="110"
+         y2="90"
+         class="base-t"
+         id="line6" />
+      <line
+         x1="38"
+         y1="115"
+         x2="60"
+         y2="115"
+         class="base-c"
+         id="line7" />
+      <line
+         x1="60"
+         y1="115"
+         x2="82"
+         y2="115"
+         class="base-g"
+         id="line8" />
+      <line
+         x1="58"
+         y1="140"
+         x2="60"
+         y2="140"
+         class="base-t"
+         id="line9" />
+      <line
+         x1="60"
+         y1="140"
+         x2="62"
+         y2="140"
+         class="base-a"
+         id="line10" />
+      <line
+         x1="60"
+         y1="165"
+         x2="78"
+         y2="165"
+         class="base-g"
+         id="line11" />
+      <line
+         x1="42"
+         y1="165"
+         x2="60"
+         y2="165"
+         class="base-c"
+         id="line12" />
+      <line
+         x1="60"
+         y1="190"
+         x2="108"
+         y2="190"
+         class="base-a"
+         id="line13" />
+      <line
+         x1="12"
+         y1="190"
+         x2="60"
+         y2="190"
+         class="base-t"
+         id="line14" />
+      <line
+         x1="60"
+         y1="215"
+         x2="114"
+         y2="215"
+         class="base-c"
+         id="line15" />
+      <line
+         x1="6"
+         y1="215"
+         x2="60"
+         y2="215"
+         class="base-g"
+         id="line16" />
+      <line
+         x1="10"
+         y1="260"
+         x2="60"
+         y2="260"
+         class="base-t"
+         id="line17" />
+      <line
+         x1="60"
+         y1="260"
+         x2="110"
+         y2="260"
+         class="base-a"
+         id="line18" />
+      <line
+         x1="38"
+         y1="285"
+         x2="60"
+         y2="285"
+         class="base-g"
+         id="line19" />
+      <line
+         x1="60"
+         y1="285"
+         x2="82"
+         y2="285"
+         class="base-c"
+         id="line20" />
+      <line
+         x1="58"
+         y1="310"
+         x2="60"
+         y2="310"
+         class="base-a"
+         id="line21" />
+      <line
+         x1="60"
+         y1="310"
+         x2="62"
+         y2="310"
+         class="base-t"
+         id="line22" />
+      <line
+         x1="60"
+         y1="335"
+         x2="78"
+         y2="335"
+         class="base-c"
+         id="line23" />
+      <line
+         x1="42"
+         y1="335"
+         x2="60"
+         y2="335"
+         class="base-g"
+         id="line24" />
+      <line
+         x1="60"
+         y1="360"
+         x2="108"
+         y2="360"
+         class="base-t"
+         id="line25" />
+      <line
+         x1="12"
+         y1="360"
+         x2="60"
+         y2="360"
+         class="base-a"
+         id="line26" />
+      <line
+         x1="60"
+         y1="385"
+         x2="114"
+         y2="385"
+         class="base-g"
+         id="line27" />
+      <line
+         x1="6"
+         y1="385"
+         x2="60"
+         y2="385"
+         class="base-c"
+         id="line28" />
+    </g>
+    <g
+       id="backbone-rear">
+      <path
+         d="M 60 65 C 130 110, 130 140, 60 190"
+         class="back-strand"
+         id="path28" />
+      <path
+         d="M 60 235 C 130 280, 130 310, 60 360"
+         class="back-strand"
+         id="path29" />
+      <path
+         d="M 60 190 C -10 240, -10 270, 60 315"
+         class="back-strand"
+         id="path30" />
+      <path
+         d="M 60 360 C -10 405, -10 435, 60 480"
+         class="back-strand"
+         id="path31" />
+    </g>
+    <g
+       id="backbone-front">
+      <path
+         d="M 60 65 C -10 110, -10 140, 60 190"
+         class="front-strand-1"
+         id="path32" />
+      <path
+         d="M 60 190 C 130 240, 130 270, 60 315"
+         class="front-strand-1"
+         id="path33" />
+      <path
+         d="M 60 315 C -10 360, -10 390, 60 440"
+         class="front-strand-1"
+         id="path34" />
+      <path
+         d="M 60 115 C -10 160, -10 190, 60 235"
+         class="front-strand-2"
+         id="path35" />
+      <path
+         d="M 60 235 C 130 280, 130 310, 60 360"
+         class="front-strand-2"
+         id="path36" />
+      <path
+         d="M 60 360 C -10 405, -10 435, 60 480"
+         class="front-strand-2"
+         id="path37" />
+    </g>
+  </g>
+  <g
+     id="measurements">
+    <g
+       id="major-groove-labels">
+      <line
+         x1="230"
+         y1="115"
+         x2="310"
+         y2="115"
+         class="guide-line"
+         id="line37" />
+      <line
+         x1="230"
+         y1="235"
+         x2="310"
+         y2="235"
+         class="guide-line"
+         id="line38" />
+      <g
+         transform="translate(290, 0)"
+         id="g42">
+        <line
+           x1="0"
+           y1="115"
+           x2="0"
+           y2="235"
+           class="dim-line"
+           id="line39" />
+        <path
+           d="M -4 122 L 0 115 L 4 122 M -4 228 L 0 235 L 4 228"
+           class="dim-arrow"
+           id="path39" />
+        <text
+           x="15"
+           y="165"
+           class="label-main major-color"
+           id="text39">大沟 (Major Groove)</text>
+        <text
+           x="15"
+           y="182"
+           class="dim-text"
+           id="text40"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Microsoft YaHei UI;-inkscape-font-specification:Microsoft YaHei UI"
+             id="tspan54">宽度: 约 22 Å (2.2 nm)</tspan></text>
+        <text
+           x="15"
+           y="197"
+           class="dim-text"
+           id="text41"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Microsoft YaHei UI;-inkscape-font-specification:Microsoft YaHei UI"
+             id="tspan55">深度: 约 11 Å (1.1 nm)</tspan></text>
+        <text
+           x="15"
+           y="212"
+           class="label-sub"
+           id="text42" />
+      </g>
+    </g>
+    <g
+       id="minor-groove-labels">
+      <line
+         x1="230"
+         y1="235"
+         x2="310"
+         y2="235"
+         class="guide-line"
+         id="line42" />
+      <line
+         x1="230"
+         y1="315"
+         x2="310"
+         y2="315"
+         class="guide-line"
+         id="line43" />
+      <g
+         transform="translate(290, 0)"
+         id="g46">
+        <line
+           x1="0"
+           y1="235"
+           x2="0"
+           y2="315"
+           class="dim-line"
+           id="line44" />
+        <path
+           d="M -4 242 L 0 235 L 4 242 M -4 308 L 0 315 L 4 308"
+           class="dim-arrow"
+           id="path44" />
+        <text
+           x="15"
+           y="265"
+           class="label-main minor-color"
+           id="text44"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold'"
+             id="tspan56">小沟 (Minor Groove)</tspan></text>
+        <text
+           x="15"
+           y="282"
+           class="dim-text"
+           id="text45"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI'"
+             id="tspan57">宽度: 约 12 Å (1.2 nm)</tspan></text>
+        <text
+           x="15"
+           y="297"
+           class="dim-text"
+           id="text46"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI'"
+             id="tspan58">深度: 约 6 Å (0.6 nm)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="pitch-labels">
+      <line
+         x1="110"
+         y1="65"
+         x2="cpu"
+         y2="65"
+         stroke="#7F8C8D"
+         stroke-width="1"
+         stroke-dasharray="2,2"
+         transform="translate(30,0)"
+         id="line46" />
+      <line
+         x1="110"
+         y1="405"
+         x2="210"
+         y2="405"
+         stroke="#7F8C8D"
+         stroke-width="1"
+         stroke-dasharray="2,2"
+         id="line47" />
+      <g
+         transform="translate(90, 0)"
+         id="g48">
+        <line
+           x1="0"
+           y1="65"
+           x2="0"
+           y2="405"
+           stroke="#7F8C8D"
+           stroke-width="1.5"
+           id="line48" />
+        <path
+           d="M -4 72 L 0 65 L 4 72 M -4 398 L 0 405 L 4 398"
+           stroke="#7F8C8D"
+           stroke-width="1.5"
+           fill="none"
+           id="path48" />
+        <text
+           x="-148.9626"
+           y="-9.7071276"
+           class="axis-text"
+           text-anchor="end"
+           transform="rotate(-90)"
+           id="text48"
+           style="font-size:16px"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI'"
+             id="tspan59">核酸骨架带有丰富的负电荷</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="legend"
+     transform="translate(244.53775,456.23854)">
+    <text
+       class="label-sub"
+       x="39.520111"
+       y="-105.50176"
+       font-weight="bold"
+       id="text49"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold'">碱基对图例:</text>
+    <line
+       x1="46.065636"
+       y1="-78.675537"
+       x2="66.065628"
+       y2="-78.675537"
+       class="base-a"
+       id="line49" />
+    <text
+       x="81.107895"
+       y="-75.096436"
+       class="label-sub"
+       id="text50">A</text>
+    <line
+       x1="46.065636"
+       y1="-58.625175"
+       x2="66.065628"
+       y2="-58.625175"
+       class="base-t"
+       id="line50" />
+    <text
+       x="81.103004"
+       y="-55.046074"
+       class="label-sub"
+       id="text51">T</text>
+    <line
+       x1="102.82008"
+       y1="-78.675537"
+       x2="122.82007"
+       y2="-78.675537"
+       class="base-c"
+       id="line51" />
+    <text
+       x="137.34964"
+       y="-75.096436"
+       class="label-sub"
+       id="text52">C</text>
+    <line
+       x1="102.28297"
+       y1="-58.625175"
+       x2="122.28297"
+       y2="-58.625175"
+       class="base-g"
+       id="line52" />
+    <text
+       x="137.02249"
+       y="-55.046074"
+       class="label-sub"
+       id="text53">G</text>
+  </g>
+  <text
+     xml:space="preserve"
+     id="text2"
+     style="fill:#000000;text-orientation:auto;-inkscape-font-specification:'Microsoft YaHei UI';font-family:'Microsoft YaHei UI';writing-mode:lr-tb;direction:ltr;font-size:16px;white-space:pre;shape-inside:url(#rect2)" />
+</svg>
